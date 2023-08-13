@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.tabs.showActions": "always",
+    "emmet.preferences": {
+    
+    },
+    "workbench.editor.tabCloseButton": "right",
+    "scm.showActionButton": true,
+    "notebook.consolidatedRunButton": true,
+    "workbench.settings.useSplitJSON": false
+    
+}
